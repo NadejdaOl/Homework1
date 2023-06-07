@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+ 
+body {
+   background-color: #b2b8ca;
+   padding: 10px;
+}
+
+p {
+   border: solid #34495e;
+   padding: 21px;
+   margin:  20px;
+   background-color: #34495e;
+   border-radius: 20px;
+   color: #e1e8f7;
+}
+ 
+h1 {
+   margin: 20px 30px 30px;
+}
+
+.post h2 {
+   text-align:center; 
+}
+
+ 
+ 
+     
+   
+     
+   
